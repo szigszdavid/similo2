@@ -1,0 +1,241 @@
+[
+    {
+        "name" : "Hook",
+        "img" : "./Képek/hook.png",
+        "side" : "evil",
+        "tale" : "Peter Pan",
+        "gender" : "male",
+        "specie" : "human",
+        "similar" : true
+    },
+
+    {
+        "name" : "Dzsinn",
+        "img" : "./Képek/dzsinn.png",
+        "side" : "hero",
+        "tale" : "Aladdin",
+        "gender" : "male",
+        "specie" : "talecharacter",
+        "similar" : true
+    },
+
+    {
+        "name" : "Alice",
+        "img" : "./Képek/alice.png",
+        "side" : "hero",
+        "tale" : "Alice in Wonderland",
+        "gender" : "female",
+        "specie" : "human",
+        "similar" : true
+    },
+
+    {
+        "name" : "Szív királynője",
+        "img" : "./Képek/szívkirálynője.png",
+        "side" : "evil",
+        "tale" : "Alice in Wonderland",
+        "gender" : "female",
+        "specie" : "human",
+        "similar" : true
+    },
+
+    {
+        "name" : "Kalapos",
+        "img" : "./Képek/kalapos.png",
+        "side" : "hero",
+        "tale" : "Alice in Wonderland",
+        "gender" : "male",
+        "specie" : "human",
+        "similar" : true
+    },
+
+    {
+        "name" : "A három kismalac",
+        "img" : "./Képek/aháromkismalac.png",
+        "side" : "hero",
+        "tale" : "Aladdin",
+        "gender" : "male",
+        "specie" : "talecharacter",
+        "similar" : true
+    },
+    {
+        "name" : "Bádogember",
+        "img" : "./Képek/bádogember.png",
+        "side" : "evil",
+        "tale" : "Peter Pan",
+        "gender" : "male",
+        "specie" : "human",
+        "similar" : true
+    },
+
+    {
+        "name" : "Csizmás Kandúr",
+        "img" : "./Képek/csizmáskandúr.png",
+        "side" : "hero",
+        "tale" : "Aladdin",
+        "gender" : "male",
+        "specie" : "talecharacter",
+        "similar" : true
+    },
+
+    {
+        "name" : "Dorothy",
+        "img" : "./Képek/dorothy.png",
+        "side" : "evil",
+        "tale" : "Peter Pan",
+        "gender" : "male",
+        "specie" : "human",
+        "similar" : true
+    },
+
+    {
+        "name" : "Gonosz Farkas",
+        "img" : "./Képek/gonoszfarkas.png",
+        "side" : "hero",
+        "tale" : "Aladdin",
+        "gender" : "male",
+        "specie" : "talecharacter",
+        "similar" : true
+    },
+
+    {
+        "name" : "Gonosz Mostoha",
+        "img" : "./Képek/gonoszmostoha.png",
+        "side" : "evil",
+        "tale" : "Peter Pan",
+        "gender" : "male",
+        "specie" : "human",
+        "similar" : true
+    },
+
+    {
+        "name" : "Jancsi",
+        "img" : "./Képek/jancsi.png",
+        "side" : "hero",
+        "tale" : "Aladdin",
+        "gender" : "male",
+        "specie" : "talecharacter",
+        "similar" : true
+    },
+
+    {
+        "name" : "Nyugati Gonosz Boszorkány",
+        "img" : "./Képek/nyugatigonoszboszorkány.png",
+        "side" : "hero",
+        "tale" : "Aladdin",
+        "gender" : "male",
+        "specie" : "talecharacter",
+        "similar" : true
+    },
+
+    {
+        "name" : "Róka és a macska",
+        "img" : "./Képek/rókaésamacska.png",
+        "side" : "hero",
+        "tale" : "Aladdin",
+        "gender" : "male",
+        "specie" : "talecharacter",
+        "similar" : true
+    },
+
+    {
+        "name" : "Tűznyelő",
+        "img" : "./Képek/tűznyelő.png",
+        "side" : "hero",
+        "tale" : "Aladdin",
+        "gender" : "male",
+        "specie" : "talecharacter",
+        "similar" : true
+    },
+
+    {
+        "name" : "A gonosz királynő",
+        "img" : "./Képek/agonoszkirálynő.png",
+        "similar" : true
+    },
+
+    {
+        "name" : "A Herceg",
+        "img" : "./Képek/aherceg.png",
+        "similar" : true
+    },
+
+    {
+        "name" : "Aladdin",
+        "img" : "./Képek/aladdin.png",
+        "similar" : true
+    },
+
+    {
+        "name" : "A Vadász",
+        "img" : "./Képek/avadász.png",
+        "similar" : true
+    },
+
+    {
+        "name" : "Az Óriás",
+        "img" : "./Képek/azóriás.png",
+        "similar" : true
+    },
+
+    {
+        "name" : "Csingiling",
+        "img" : "./Képek/csingiling.png",
+        "similar" : true
+    },
+
+    {
+        "name" : "Hamupipőke",
+        "img" : "./Képek/hamupipőke.png",
+        "similar" : true
+    },
+
+    {
+        "name" : "Hófehérke",
+        "img" : "./Képek/hófehérke.png",
+        "similar" : true
+    },
+
+    {
+        "name" : "Kis hableány",
+        "img" : "./Képek/kishableány.png",
+        "similar" : true
+    },
+
+    {
+        "name" : "Nevető Macska",
+        "img" : "./Képek/nevetőmacska.png",
+        "similar" : true
+    },
+
+    {
+        "name" : "Pán Péter",
+        "img" : "./Képek/pánpéter.png",
+        "similar" : true
+    },
+
+    {
+        "name" : "Pinokió",
+        "img" : "./Képek/pinokió.png",
+        "similar" : true
+    },
+
+    {
+        "name" : "Piroska",
+        "img" : "./Képek/piroska.png",
+        "similar" : true
+    },
+
+    {
+        "name" : "Tengeri boszorka",
+        "img" : "./Képek/tengeriboszorka.png",
+        "similar" : true
+    },
+
+    {
+        "name" : "Tündérkeresztanya",
+        "img" : "./Képek/tündérkeresztanya.png",
+        "similar" : true
+    }
+
+]
